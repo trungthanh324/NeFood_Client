@@ -2,20 +2,19 @@
 //  ContentView.swift
 //  FoodOderring_FinalProject
 //
-//  Created by Trung Thành  on 30/9/24.
+//  Created by Trung Thành  on 13/10/24.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationView{
+            WelcomeView()
+//            Login()
+                .navigationBarBackButtonHidden()
+                .navigationBarHidden(true)
         }
-        .padding()
     }
 }
 

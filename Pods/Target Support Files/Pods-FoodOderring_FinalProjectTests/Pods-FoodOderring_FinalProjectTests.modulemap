@@ -1,0 +1,6 @@
+framework module Pods_FoodOderring_FinalProjectTests {
+  umbrella header "Pods-FoodOderring_FinalProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
