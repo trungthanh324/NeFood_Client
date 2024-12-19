@@ -1,3 +1,4 @@
+How to use:
 1. open file ".xcworkspace"<br>
 2. build and run<br><br>
 App tour:<br>
