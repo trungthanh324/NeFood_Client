@@ -18,9 +18,9 @@ App tour:<br>
    Waiting shipper takes order: <br>
    ![Alt text](https://github.com/trungthanh324/NeFood_Client/blob/0886ecb4745160ae1f57a4a2a73a32006850c9f9/IMG_2542.PNG)br><br>
    Tracking screen: <br>
-   ![Alt text](https://github.com/trungthanh324/NeFood_Client/blob/0886ecb4745160ae1f57a4a2a73a32006850c9f9/IMG_2543.PNG)br><br>
+   ![Alt text](https://github.com/trungthanh324/NeFood_Client/blob/0886ecb4745160ae1f57a4a2a73a32006850c9f9/IMG_2543.PNG)<br><br>
    Shipper delivers successfully:
-   ![Alt text](https://github.com/trungthanh324/NeFood_Client/blob/0886ecb4745160ae1f57a4a2a73a32006850c9f9/IMG_2553.PNG)br><br>
+   ![Alt text](https://github.com/trungthanh324/NeFood_Client/blob/0886ecb4745160ae1f57a4a2a73a32006850c9f9/IMG_2553.PNG)<br><br>
 
 
 
