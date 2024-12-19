@@ -13,7 +13,7 @@ Main modules:<br>
 - Place orders, and track the order.<br>
 - Display the deliverer’s location, route, and estimated time on the map in real time.<br>
 - Cancel order.<br><br>
-
+Link shipper app: [click here](https://github.com/trungthanh324/NeFood_Shipper.git)
 App tour:<br>
    Slider:
    ![Alt text](https://raw.githubusercontent.com/trungthanh324/NeFood_Client/eba77af5c639cdba2f150cafc3da8cfb85f041b5/IMG_2532.PNG)
